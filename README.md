@@ -78,11 +78,11 @@ python seed_data.py
 
 | Endpoint                  | Descripción                                   |
 |--------------------------|-----------------------------------------------|
-| `/places/`               | Lista de todos los lugares COPEC              |
-| `/places/prontos`        | Lista de estaciones **Pronto**                |
-| `/places/bencineras`     | Lista de **bencineras**                       |
-| `/places/servicios`      | Lista de **servicios asociados**              |
-| `/places/otros`          | Lista de otros tipos de lugares               |
+| `/ubicaciones/`               | Lista de todos los lugares COPEC              |
+| `/ubicaciones/prontos`        | Lista de estaciones **Pronto**                |
+| `/ubicaciones/bencineras`     | Lista de **bencineras**                       |
+| `/ubicaciones/servicios`      | Lista de **servicios asociados**              |
+| `/ubicaciones/otros`          | Lista de otros tipos de lugares               |
 
 ---
 
