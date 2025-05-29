@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Docs - UBI COPEC
+theme:
+  name: material
+docs_dir: docs
